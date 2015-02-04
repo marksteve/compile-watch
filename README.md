@@ -12,3 +12,7 @@ robocomp \
   -t reactify \
   -o dist
 ```
+
+## License
+
+[MIT License](http://marksteve.mit-license.org)
