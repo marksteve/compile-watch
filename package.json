@@ -1,0 +1,31 @@
+{
+  "name": "robocomp",
+  "version": "0.0.1",
+  "description": "Part watcher. Part compiler. All awesome.",
+  "main": "index.js",
+  "bin": "bin/cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marksteve/robocomp.git"
+  },
+  "author": {
+    "name": "Mark Steve Samson",
+    "email": "hello@marksteve.com",
+    "url": "http://marksteve.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marksteve/robocomp/issues"
+  },
+  "homepage": "https://github.com/marksteve/robocomp",
+  "dependencies": {
+    "chokidar": "^1.0.0-rc3",
+    "colors": "^1.0.3",
+    "less": "^2.3.1",
+    "subarg": "^1.0.0",
+    "watchify": "git://github.com/marksteve/watchify"
+  }
+}
